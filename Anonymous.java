@@ -12,6 +12,8 @@ public class WithAnonymous {
 			@Override
 			public void greeting() {
 				System.out.println("Hello Friends how are you...");
+				System.out.println("please enter your name");
+
 
 			}
 		};
